@@ -1,0 +1,45 @@
+{
+  "utc": "2026-10-31T10:57:48.981794+00:00",
+  "project_version": "1.0.4",
+  "tests": {
+    "passed": 36,
+    "failed": 0,
+    "command": "node --test --test-reporter=spec",
+    "output_sha256": "cb9e26d196438fcdee87c4c8751afc2a9445d60fef0104a705f22e2692cda698"
+  },
+  "syntax": {
+    "passed": true,
+    "checked_files": 28,
+    "command": "npm run check"
+  },
+  "isolated_startup": {
+    "health_http": 200,
+    "status_helper_exit": 0,
+    "shutdown_http": 202,
+    "real_accounts_loaded": false
+  },
+  "reported_production_evidence": {
+    "source": "user supplied status excerpts",
+    "version": "1.0.3",
+    "table": "input_events",
+    "http_status": 200,
+    "independently_verified_in_this_turn": false
+  },
+  "new_gameplay_production_verified": false,
+  "first_gameplay_ms": 60000,
+  "performance_interval_ms": 600000,
+  "gameplay_check_interval_ms": 300000,
+  "log_directory": "data/logs/facepunch/<account>-<hash>/events.jsonl",
+  "source_hashes": {
+    "src/facepunch/telemetry.js": "73aefddb609cccfcf00e206f9f939aa0c84871b031f9f43809472cead7a789f5",
+    "src/facepunch/log.js": "17bb853ef64b95a2319e7e07e75faf48e95ec25ae1441d8e678c83b1c651898d",
+    "src/main.js": "0b9a47fa48abda4195a468a76b2cc5e2117e47cddff900082fc70b512648f63f",
+    "src/bindings.js": "b84d983e35c64891a305c0d8b63738928b2a76043ea50f9e6c7d302bc325d6b8",
+    "scripts/facepunch-status.mjs": "53ce8905bb417ce6827fa6a98484366c736af20aab79b33e0563f982ba3750d7",
+    "test/facepunch.test.js": "9c7adcd60254f9905b0e2c6853340c96e21b3d404f66124f6ab5ea914ab8d1c7",
+    "test/controller.test.js": "c6c261f3b73f3a5c1674019d0b69feb3a16f47864bed2645662bcdd41f86a911",
+    "docs/FACEPUNCH-TEST.md": "3a4b745682d6a8ea973565f2e017f0c300ad1c4e1a8f7db493047f3ed7063323",
+    "package.json": "dbc45d44484c99dd2cedc95f57c79a05b8cbf6f34b0e47b2c9bd77052b9bed99",
+    "package-lock.json": "fbc52d2dcc02dea2f154a2ecfb2c1d144c69cc00e6cae43e79700c7a3627377a"
+  }
+}

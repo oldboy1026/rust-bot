@@ -1,0 +1,58 @@
+{
+  "utc": "2026-10-31T10:27:48.534768+00:00",
+  "project_version": "1.0.3",
+  "backend_modified": true,
+  "tests": {
+    "command": "node --test --test-reporter=spec",
+    "passed": 29,
+    "failed": 0
+  },
+  "syntax": {
+    "command": "npm run check",
+    "checked_files": 27,
+    "passed": true
+  },
+  "isolated_startup": {
+    "health_http": 200,
+    "status_helper_exit": 0,
+    "shutdown_http": 202,
+    "real_accounts_loaded": false
+  },
+  "production_url": "https://gw.facepunch.com/analytics/rust/client",
+  "automated_test_receiver": "loopback HTTP receiver; production code fetch was replaced only by the test constructor option",
+  "live_steam_webapi_ticket_verified": false,
+  "live_facepunch_synthetic_upload_verified": false,
+  "input_encoding": {
+    "version": "4",
+    "group_columns": 4,
+    "known_columns": [
+      "relative .NET ticks"
+    ],
+    "unknown_columns": [
+      2,
+      3,
+      4
+    ],
+    "simulated_unknown_values": [
+      0,
+      0,
+      0
+    ]
+  },
+  "source_hashes": {
+    "src/steam/webapi-ticket.js": "fa6902c279f88632c44f9a19ad5434f9dbea2eec8c2e853761de3a896ddeea5e",
+    "src/steam/features.js": "29b52fe922f63ae35c9160f34e05d7179e0d8d188bf656594e4f14170d6979c2",
+    "src/bindings.js": "8bf8d27139f6f463564f9b58203057983e6ab90a84b139b20d9c5e3e21fa3e1a",
+    "src/facepunch/telemetry.js": "3053cdc23cd39cae1178634eb2dbbd8440a4e7779fc6e1a04809df20b0373f75",
+    "src/facepunch/simulated-data.js": "4baed37891ae4be9e97349bc74f3a40e7351950efa00cf57bc9b700ca68f9f4f",
+    "src/facepunch/simulated-performance.json": "65bb335018d5eef31ee0d9cfae7fa970a3e65388a361a20faadce6805e0eaf7d",
+    "src/facepunch/client-config.json": "78a77e16cff8105493348c2ccdb8454138ade638f1c9bf26957b0f1e8a37d684",
+    "test/facepunch.test.js": "cc6053762aa0814439510cc74716d455b736bef764a3033237784e36e2e9d0df",
+    "test/controller.test.js": "674d68ce968cb2dbb81c65ef077e62fdc5e69e810cfc81e813398165e0b2e721",
+    "scripts/facepunch-status.mjs": "866c41e68c54ffaeb321862582fca84f7ca2c7d1c153f2968fef2b1c8518f31b",
+    "facepunch-status.cmd": "0e920b44eff023dc5a206b324f9caff1a8ef43f0d7794fdaadd920c832cd8c91",
+    "docs/FACEPUNCH-TEST.md": "bd1e92749d9a26c86f5144c1952990ff0dea0b1b7719b3354734adbc1f293b78",
+    "package.json": "352db21ee43128977b2fbe208a83f6c8d965905ae5c6f01dff87422040db94ab",
+    "package-lock.json": "22f8177b7fe892d960b1e11504b2ba688d2f8cc25bed28e0a83bb947c1797efa"
+  }
+}

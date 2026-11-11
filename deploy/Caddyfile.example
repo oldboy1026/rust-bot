@@ -1,0 +1,5 @@
+# Replace this name with a domain resolving to the controller server.
+# Caddy handles HTTPS certificates and WebSocket forwarding automatically.
+panel.example.com {
+    reverse_proxy 127.0.0.1:3220
+}

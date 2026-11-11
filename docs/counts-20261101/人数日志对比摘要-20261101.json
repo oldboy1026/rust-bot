@@ -1,0 +1,304 @@
+{
+  "createdAt": "2026-10-31T17:28:13.434339+00:00",
+  "snapshots": {
+    "early": {
+      "capturedAt": "2026-10-31T16:58:16.677387+00:00",
+      "files": [
+        {
+          "evidenceId": "log-01",
+          "bytes": 87260,
+          "sha256": "cc574b9247e8d33a86f6731a214da0053d3184f2ddabf87dd872a69d107a1f3b",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-02",
+          "bytes": 262503,
+          "sha256": "91a61c21e0c98fb2c6e0378b7d53d2bb0d04049f59e481e4bc6928ec0de665be",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-03",
+          "bytes": 104874,
+          "sha256": "93730b239e73c4b7fe77ab7598a2efacb9f57c64aa08ca6167756b8b010835de",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-04",
+          "bytes": 262139,
+          "sha256": "2b776a40de23a748f5661f5000fdd238a715c06ab4ba5151a9fa1f692e72c703",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-05",
+          "bytes": 104694,
+          "sha256": "ecf0a7921d0302a547c9b3cb8daa4a760f2683669c69418cdf3e3478cc3eafa6",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-06",
+          "bytes": 104905,
+          "sha256": "fc75e5b3f33e27b75e56505f00f6d9885964e1588aa4beb7dadefc5ed7c7e954",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-07",
+          "bytes": 262409,
+          "sha256": "974f79696342ab7b5403883457216ebf11bce46239e0e530a4fe915b373b61d1",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-08",
+          "bytes": 104619,
+          "sha256": "2215af4c98f921ce0f56630f060d93b568540e837dfb751ca6d096213913ec3f",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-09",
+          "bytes": 262540,
+          "sha256": "830cffbb5b8d1c65b6d07ac2eb2091ed28c9fefdc5915c43686e9250526bf3eb",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-10",
+          "bytes": 264616,
+          "sha256": "778fc86f97753f16add61ea0e707f5e7cb8a4cdfac36ca25459ba4f3ecb8e624",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-11",
+          "bytes": 104253,
+          "sha256": "82526c4dfd412a58ce7ca0383855ee9263055ff68afa2a687d3f1c7ac1d85a04",
+          "malformedLines": 0
+        }
+      ],
+      "firstLogAt": "2026-10-31T15:02:26.156Z",
+      "lastLogAt": "2026-10-31T16:03:07.805Z"
+    },
+    "later": {
+      "capturedAt": "2026-10-31T17:06:42.420562+00:00",
+      "files": [
+        {
+          "evidenceId": "log-01",
+          "bytes": 807194,
+          "sha256": "8a1c4280b15df1a71114a121d2bfbca1fb94693cd13db832a2d6137fc65986f5",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-02",
+          "bytes": 980428,
+          "sha256": "1504b4b15ded4532558e40e28f3e703894a127c21a1001598a28beb6b8dad368",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-03",
+          "bytes": 961737,
+          "sha256": "9305067f10537c7d9ff1e4cc1aeffb946f9876848c870a3f1c7acdb607829fa4",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-04",
+          "bytes": 1103951,
+          "sha256": "7f6ba9846d76850b7240e43c1c03640ea21d8fb226088a9905b0be11244d5b4a",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-05",
+          "bytes": 960504,
+          "sha256": "757043c73bd7c2493ae2e28447c33959cafeac6bf7bc773e2f03f0c6cd0bca01",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-06",
+          "bytes": 959192,
+          "sha256": "b4490232511209c2e7f6c47b05f0df4c671da22b37812420eb19b5ab4e4a3a4c",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-07",
+          "bytes": 1103368,
+          "sha256": "f991915682b3826fb5cbb54291d1ca1cefd108f667773e511febadc4d8b50b64",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-08",
+          "bytes": 956581,
+          "sha256": "8035ba4a97a3346aac7994646aaafbd223cfef9020163b82ed7cf82bb2c15468",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-09",
+          "bytes": 1105438,
+          "sha256": "07ac61b3708ba163672517ad65db3ddbd7053c562b746b86cd937dcd76733550",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-10",
+          "bytes": 1113400,
+          "sha256": "cd23352dbdb74ae9ee14586ef8c3a84aad3b7ed40eeb44aacbe68181d6c9ec45",
+          "malformedLines": 0
+        },
+        {
+          "evidenceId": "log-11",
+          "bytes": 956813,
+          "sha256": "b97174aaab950b687aceabe3d0abcf0b6f627ecd043d134691bb2a307adf6abd",
+          "malformedLines": 0
+        }
+      ],
+      "firstLogAt": "2026-10-31T15:02:26.156Z",
+      "lastLogAt": "2026-10-31T17:03:56.009Z"
+    }
+  },
+  "originalSourceIdentical": true,
+  "sourceFilesCompared": 24,
+  "snapshotsAreAppendContinuations": true,
+  "accounts": [
+    {
+      "account": "a564f26b92",
+      "first": "2026-10-31T15:55:35.367Z",
+      "last": "2026-10-31T17:03:55.099Z",
+      "starts": 16,
+      "stops": 15,
+      "performanceUploads": 0,
+      "http200": 69,
+      "worldUploads": 0,
+      "worldWaits": 15
+    },
+    {
+      "account": "c5387fb656",
+      "first": "2026-10-31T15:02:26.819Z",
+      "last": "2026-10-31T17:03:56.009Z",
+      "starts": 14,
+      "stops": 12,
+      "performanceUploads": 2,
+      "http200": 82,
+      "worldUploads": 0,
+      "worldWaits": 13
+    },
+    {
+      "account": "e2154910cd",
+      "first": "2026-10-31T15:55:35.844Z",
+      "last": "2026-10-31T17:03:39.233Z",
+      "starts": 1,
+      "stops": 0,
+      "performanceUploads": 7,
+      "http200": 76,
+      "worldUploads": 0,
+      "worldWaits": 1
+    },
+    {
+      "account": "fc23ea6fa5",
+      "first": "2026-10-31T15:02:29.999Z",
+      "last": "2026-10-31T17:03:11.387Z",
+      "starts": 2,
+      "stops": 0,
+      "performanceUploads": 8,
+      "http200": 88,
+      "worldUploads": 0,
+      "worldWaits": 2
+    },
+    {
+      "account": "7db069013c",
+      "first": "2026-10-31T15:55:35.884Z",
+      "last": "2026-10-31T17:03:38.818Z",
+      "starts": 1,
+      "stops": 0,
+      "performanceUploads": 7,
+      "http200": 76,
+      "worldUploads": 0,
+      "worldWaits": 1
+    },
+    {
+      "account": "c1d82deb50",
+      "first": "2026-10-31T15:55:35.885Z",
+      "last": "2026-10-31T17:03:37.457Z",
+      "starts": 1,
+      "stops": 0,
+      "performanceUploads": 7,
+      "http200": 76,
+      "worldUploads": 0,
+      "worldWaits": 1
+    },
+    {
+      "account": "46e3ae5248",
+      "first": "2026-10-31T15:02:26.156Z",
+      "last": "2026-10-31T17:03:08.044Z",
+      "starts": 2,
+      "stops": 0,
+      "performanceUploads": 8,
+      "http200": 88,
+      "worldUploads": 0,
+      "worldWaits": 2
+    },
+    {
+      "account": "377138ce3a",
+      "first": "2026-10-31T15:55:35.884Z",
+      "last": "2026-10-31T17:03:37.828Z",
+      "starts": 1,
+      "stops": 0,
+      "performanceUploads": 7,
+      "http200": 76,
+      "worldUploads": 0,
+      "worldWaits": 1
+    },
+    {
+      "account": "72749627ff",
+      "first": "2026-10-31T15:02:26.561Z",
+      "last": "2026-10-31T17:03:06.420Z",
+      "starts": 2,
+      "stops": 0,
+      "performanceUploads": 8,
+      "http200": 88,
+      "worldUploads": 0,
+      "worldWaits": 2
+    },
+    {
+      "account": "0c7238046b",
+      "first": "2026-10-31T15:02:26.562Z",
+      "last": "2026-10-31T17:03:06.120Z",
+      "starts": 2,
+      "stops": 0,
+      "performanceUploads": 8,
+      "http200": 88,
+      "worldUploads": 0,
+      "worldWaits": 2
+    },
+    {
+      "account": "76880ebddf",
+      "first": "2026-10-31T15:55:35.885Z",
+      "last": "2026-10-31T17:03:40.375Z",
+      "starts": 1,
+      "stops": 0,
+      "performanceUploads": 7,
+      "http200": 76,
+      "worldUploads": 0,
+      "worldWaits": 1
+    }
+  ],
+  "httpRequests": 885,
+  "httpResponses": 883,
+  "httpStatusCounts": {
+    "200": 883
+  },
+  "responseBodyByteCounts": {
+    "0": 883
+  },
+  "attemptAborted": 2,
+  "worldUploads": 0,
+  "referenceAssembly": {
+    "managed": true,
+    "sha256": "71c50c6f0a48f67702cc2328e255e0000803919599c6fea6705cc22c3aa94601",
+    "remoteBuildEquivalenceVerified": false
+  },
+  "analysisHashes": {
+    "comparison.json": "e57c451f142cdb8a2f49ba55a6edafac5abdd37c9dfc5443dce2ba5e2c7ebf21",
+    "server-map-metadata.json": "8ad3c9c4d7e415967deb8f88f935c1a16e014e304f21aa6576c61fafc1c9ad70",
+    "world-props-il.txt": "e65a2e0bbc4750b51ca7979a3a65c0637a975c577af96dc9081cf6e6f52c9ad6",
+    "world-lifecycle-il.txt": "1cdb51aaf5339f77dc3d0709a784343444cf5028957107e6fecfaff93b26086f"
+  },
+  "limits": [
+    "No historical public-count samples in either snapshot",
+    "No complete auth failure reason history",
+    "HTTP 200 does not identify counted accounts",
+    "Saved state cannot be decrypted by current Windows user"
+  ]
+}
